@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: AMZ- Sejarah Peminjaman Buku Praktis
+ * Plugin Name: Sejarah Peminjaman AMZ
  * Plugin URI: https://github.com/adeism
- * Description: Laporan untuk melihat riwayat peminjaman berdasarkan judul atau kode eksemplar buku.
+ * Description: Laporan untuk melihat sejarah peminjaman berdasarkan judul, kode eksemplar buku dll + statistik
  * Version: 1.0.0
  * Author: Ade Ismail Siregar
  * Author URI: https://github.com/adeism
