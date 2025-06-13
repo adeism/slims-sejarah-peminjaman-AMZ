@@ -42,3 +42,6 @@ Panduan lengkap untuk memasang plugin ini dapat ditemukan pada tautan berikut:
 **👨‍💻 Author:**  
 Ade Ismail Siregar ([adeismailbox@gmail.com](mailto:adeismailbox@gmail.com))
 
+> ⚠️ **Disclaimer**  
+> JANGAN langsung pasang DI SLiMS Operasional (tes di PC/SLiMS lain). Gunakan dengan risiko Anda sendiri.
+
